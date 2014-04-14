@@ -1,0 +1,12 @@
+{
+    "require": {
+        "silex/silex": "~1.1",
+        "everyman/neo4jphp": "dev-master",
+        "thetwelvelabs/foursquare": "v0.2.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "LetsEat": "/var/www/letseat/src/server"
+        }
+    }
+}
